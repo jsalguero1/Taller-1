@@ -16,7 +16,7 @@ public class Modificacion
 	{
 		
 	System.out.println("Hola, mundo!");
-	CalculadoraEstadisticas calc = LoaderOlimpicos.cargarArchivo("data/atletas.csv");
+	CalculadoraEstadisticas calc = LoaderOlimpicos.cargarArchivo("./data/atletas.csv");
 	System.out.println("El pais con más medallas es:"+ calc.paisConMasMedallistas());
 	
 	}
