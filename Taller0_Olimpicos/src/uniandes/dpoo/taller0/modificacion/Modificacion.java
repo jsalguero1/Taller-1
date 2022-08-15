@@ -8,7 +8,7 @@ import uniandes.dpoo.taller0.procesamiento.LoaderOlimpicos;
 
 public class Modificacion
 
-/** Modificación 2
+/** Modificación 2 (HECHO)
  * 
  */
 {
